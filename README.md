@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology 
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ariyannath54321@gmail.com
+- 📫 How to reach me nathariyan97@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
