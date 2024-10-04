@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ariyan Nath</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
-<img align="right" width="380px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="380px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRpaGRpd3M3dmVnMjVzdGNwaTdlZmNoeWVjaGJjYWp2eG1xOGxndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cvMrULqv6se4M/giphy.webp">
 
 <br><br><br>
 
