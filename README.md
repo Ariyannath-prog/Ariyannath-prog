@@ -38,4 +38,3 @@
 
 <p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariyannath-prog&" alt="ariyannath-prog" /></p>
 <br>
-<p align="center"><img height="200px" width="100%" style="border:50px solid blue;" src="https://navigators.org.au/wp-content/uploads/2018/07/Thank-you-footer-1.png"></p>
