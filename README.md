@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariyannath-prog&show_icons=true&locale=en&layout=compact" alt="ariyannath-prog" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariyannath-prog&show_icons=true&locale=en" alt="ariyannath-prog" /></p>
-<br>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariyannath-prog&" alt="ariyannath-prog" /></p>
 <br>
