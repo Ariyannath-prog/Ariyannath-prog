@@ -43,4 +43,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariyannath-prog&theme=black-ice&ring=DD2727&fire=FF5F5F&currStreakLabel=DD2727" alt="ariyannath-prog" />
 </p>
 <br><br>
-<img width="100%" height="120px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndzaXpxZWIydWJsd256dWUzNzYzYmRxYXQxemJ4ZXdmMGozZ2FpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vamRg4k9FO2wyFylIx/200.webp">
+<img width="100%" height="90px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndzaXpxZWIydWJsd256dWUzNzYzYmRxYXQxemJ4ZXdmMGozZ2FpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vamRg4k9FO2wyFylIx/200.webp">
