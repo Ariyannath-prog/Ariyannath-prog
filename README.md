@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ariyan_nath138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ariyan_nath138" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ariyan nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariyan nath" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ariyan nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ariyan nath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ariyan-nath-38a123240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariyan nath" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ariyannath200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ariyan nath" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ariyannath54321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ariyannath54321" height="30" width="40" /></a>
 </p>
 
