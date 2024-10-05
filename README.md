@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 🧑‍💻 My recent project ** https://ariyannath-prog.github.io/SIH-2024-Prototype/ **
+- 🧑‍💻 My recent project  https://ariyannath-prog.github.io/SIH-2024-Prototype/
 
 - 👯 I’m looking to collaborate on **AI/ML**
 
