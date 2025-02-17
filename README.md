@@ -1,5 +1,5 @@
-<img align="center" width="300px" src="![Header](./your-header-image-name.png)">
-![Header](./github-header-image.png)
+
+![github-header-image-2](https://github.com/user-attachments/assets/66e5c66b-70c9-4abc-8d4c-273fadca6911)
 
 <br><br><br>
 
