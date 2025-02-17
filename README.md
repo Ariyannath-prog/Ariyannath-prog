@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ariyan Nath</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariyannath-prog&label=Profile%20views&color=0e75b6&style=flat" alt="ariyannath-prog" /> </p>
+<img align="right" width="300px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRpaGRpd3M3dmVnMjVzdGNwaTdlZmNoeWVjaGJjYWp2eG1xOGxndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cvMrULqv6se4M/giphy.webp">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariyannath-prog" alt="ariyannath-prog" /></a> </p>
+<br><br><br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariyannath-prog&label=Profile%20views&color=0e75b6&style=flat" alt="ariyannath-prog" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@ariyan_nath138" target="blank"><img src="https://img.shields.io/twitter/follow/@ariyan_nath138?logo=twitter&style=for-the-badge" alt="@ariyan_nath138" /></a> </p>
 
@@ -38,4 +40,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariyannath-prog&show_icons=true&locale=en" alt="ariyannath-prog" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariyannath-prog&" alt="ariyannath-prog" /></p>
+<br><br>
+<img width="100%" height="90px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndzaXpxZWIydWJsd256dWUzNzYzYmRxYXQxemJ4ZXdmMGozZ2FpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vamRg4k9FO2wyFylIx/200.webp">
