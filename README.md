@@ -1,25 +1,9 @@
 
 ![github-header-image-2](https://github.com/user-attachments/assets/66e5c66b-70c9-4abc-8d4c-273fadca6911)
 
-<br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariyannath-prog&label=Profile%20views&color=0e75b6&style=flat" alt="ariyannath-prog" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@ariyan_nath138" target="blank"><img src="https://img.shields.io/twitter/follow/@ariyan_nath138?logo=twitter&style=for-the-badge" alt="@ariyan_nath138" /></a> </p>
-
-- 🔭 I’m currently working on [Web development project](https://ariyannath-prog.github.io/E-Book-Haven/)
-
-- 🌱 I’m currently learning **React and Node.js**
-
-- 👯 I’m looking to collaborate on **Web Development**
-
-- 💬 Ask me about **Frontend web development**
-
-- 📫 How to reach me **nathariyan97@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ariyan-nath-38a123240/](https://www.linkedin.com/in/ariyan-nath-38a123240/)
-
-- ⚡ Fun fact: **I think I love to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,6 +26,20 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ariyannath-prog&show_icons=true&locale=en&theme=dark" alt="ariyannath-prog" />
 </p>
+
+- 🔭 I’m currently working on [Web development project](https://ariyannath-prog.github.io/E-Book-Haven/)
+
+- 🌱 I’m currently learning **React and Node.js**
+
+- 👯 I’m looking to collaborate on **Web Development**
+
+- 💬 Ask me about **Frontend web development**
+
+- 📫 How to reach me **nathariyan97@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/ariyan-nath-38a123240/](https://www.linkedin.com/in/ariyan-nath-38a123240/)
+
+- ⚡ Fun fact: **I think I love to code**
 
 <br><br>
 <img width="100%" height="90px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndzaXpxZWIydWJsd256dWUzNzYzYmRxYXQxemJ4ZXdmMGozZ2FpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vamRg4k9FO2wyFylIx/200.webp">
