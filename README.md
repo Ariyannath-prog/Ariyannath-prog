@@ -1,5 +1,5 @@
 <img align="center" width="300px" src="![Header](./your-header-image-name.png)">
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 <br><br><br>
 
