@@ -2,7 +2,6 @@
 ![github-header-image-2](https://github.com/user-attachments/assets/66e5c66b-70c9-4abc-8d4c-273fadca6911)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariyannath-prog&label=Profile%20views&color=0e75b6&style=flat" alt="ariyannath-prog" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
