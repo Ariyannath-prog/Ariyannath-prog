@@ -22,6 +22,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
   </a>
+  
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="Node.js" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
   </a>
@@ -41,6 +42,9 @@
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C Programming" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
+    <a href="https://www.learncpp.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++ Programming" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
+</a>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
