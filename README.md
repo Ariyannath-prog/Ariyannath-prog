@@ -15,13 +15,13 @@
 <p align="left">
   
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <div style="display: inline-block; padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+  <div style="display: inline-block; padding: 6px; background-color: #ffffff; border-radius: 16px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" title="HTML5" width="38" height="38" style="display: block; border-radius: 12px;" />
   </div>
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <div style="display: inline-block; padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+  <div style="display: inline-block; padding: 6px; background-color: #ffffff; border-radius: 16px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" title="CSS3" width="38" height="38" style="display: block; border-radius: 12px;" />
   </div>
 </a>
