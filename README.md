@@ -14,49 +14,44 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-  <div align="left" style="margin-top: 10px;">
-
 <a href="https://www.w3.org/html/" target="_blank" title="HTML5">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="38" height="38" style="margin: 3px; background-color: #1a1a1a; padding: 6px; border-radius: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="38" height="38" style="margin: 3px; background-color: white; padding: 6px; border-radius: 16px;" />
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="38" height="38" style="margin: 3px; background-color: #1a1a1a; padding: 6px; border-radius: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="38" height="38" style="margin: 3px; background-color: white; padding: 6px; border-radius: 16px;" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" style="margin: 3px; background-color: #1a1a1a; padding: 6px; border-radius: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" style="margin: 3px; background-color: white; padding: 6px; border-radius: 16px;" />
 </a>
 
 <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="38" height="38" style="margin: 3px; background-color: #1a1a1a; padding: 6px; border-radius: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="38" height="38" style="margin: 3px; background-color: white; padding: 6px; border-radius: 16px;" />
 </a>
 
 <a href="https://nodejs.org/" target="_blank" title="Node.js">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="38" height="38" style="margin: 3px; background-color: #1a1a1a; padding: 6px; border-radius: 16px;" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="38" height="38" style="margin: 3px; background-color: white; padding: 6px; border-radius: 16px;" />
 </a>
-
 
 <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="38" height="38" style="margin: 3px; background-color: #1a1a1a; padding: 6px; border-radius: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="38" height="38" style="margin: 3px; background-color: white; padding: 6px; border-radius: 16px;" />
 </a>
 
-
 <a href="https://www.cprogramming.com/" target="_blank" title="C">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="38" height="38" style="margin: 3px; background-color: #1a1a1a; padding: 6px; border-radius: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="38" height="38" style="margin: 3px; background-color: white; padding: 6px; border-radius: 16px;" />
 </a>
 
 <a href="https://www.learncpp.com/" target="_blank" title="C++">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="38" height="38" style="margin: 3px; background-color: #1a1a1a; padding: 6px; border-radius: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="38" height="38" style="margin: 3px; background-color: white; padding: 6px; border-radius: 16px;" />
 </a>
 
-
 <a href="https://www.python.org" target="_blank" title="Python">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38" style="margin: 3px; background-color: #1a1a1a; padding: 6px; border-radius: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38" style="margin: 3px; background-color: white; padding: 6px; border-radius: 16px;" />
 </a>
 
 <a href="https://git-scm.com/" target="_blank" title="Git">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="38" height="38" style="margin: 3px; background-color: #1a1a1a; padding: 6px; border-radius: 16px;" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="38" height="38" style="margin: 3px; background-color: white; padding: 6px; border-radius: 16px;" />
 </a>
 
 <a href="https://github.com/" target="_blank" title="GitHub">
@@ -68,10 +63,10 @@
 </a>
 
 <a href="https://www.linux.org/" target="_blank" title="Linux">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="38" height="38" style="margin: 3px; background-color: #1a1a1a; padding: 6px; border-radius: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="38" height="38" style="margin: 3px; background-color: white; padding: 6px; border-radius: 16px;" />
 </a>
 
-  </div>
+
 </p>
 
 <p align="right">
