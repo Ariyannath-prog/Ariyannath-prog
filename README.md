@@ -13,51 +13,90 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
-  </a>
   
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="Node.js" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
+ <div style="display: flex; flex-wrap: wrap; gap: 10px; background-color: white; padding: 16px; border-radius: 12px;">
+
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <div style="padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" title="HTML5" width="38" height="38" style="display: block; border-radius: 12px;" />
+    </div>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" title="SQL / MySQL" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <div style="padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" title="CSS3" width="38" height="38" style="display: block; border-radius: 12px;" />
+    </div>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" 
-       alt="bash" title="Bash" width="38" height="38" 
-       style="margin: 8px; border-radius: 12px; border: 2px solid #ccc; background-color: white; padding: 4px;" />
-</a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="blender" title="Blender" width="38" height="38" style="margin: 8px; background-color: white; border-radius: 12px;" />
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <div style="padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="38" height="38" style="display: block; border-radius: 12px;" />
+    </div>
   </a>
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" title="Bootstrap" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
+    <div style="padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" title="Bootstrap" width="38" height="38" style="display: block; border-radius: 12px;" />
+    </div>
   </a>
+
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <div style="padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="Node.js" width="38" height="38" style="display: block; border-radius: 12px;" />
+    </div>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <div style="padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" title="SQL / MySQL" width="38" height="38" style="display: block; border-radius: 12px;" />
+    </div>
+  </a>
+
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C Programming" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
-    <a href="https://www.learncpp.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++ Programming" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
-</a>
+    <div style="padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C Programming" width="38" height="38" style="display: block; border-radius: 12px;" />
+    </div>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
+
+  <a href="https://www.learncpp.com/" target="_blank" rel="noreferrer">
+    <div style="padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++ Programming" width="38" height="38" style="display: block; border-radius: 12px;" />
+    </div>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" title="Photoshop" width="38" height="38" style="margin: 8px; background-color: white; border-radius: 12px;" />
-  </a>
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="38" height="38" style="margin: 8px; border-radius: 12px;" />
+    <div style="padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="38" height="38" style="display: block; border-radius: 12px;" />
+    </div>
   </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <div style="padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="38" height="38" style="display: block; border-radius: 12px;" />
+    </div>
+  </a>
+
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <div style="padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="GitHub" width="38" height="38" style="display: block; border-radius: 12px; background-color: white;" />
+    </div>
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <div style="padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" title="Bash" width="38" height="38" style="display: block; border-radius: 12px; background-color: white; padding: 2px;" />
+    </div>
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <div style="padding: 6px; background-color: #1a1a1a; border-radius: 16px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="38" height="38" style="display: block; border-radius: 12px;" />
+    </div>
+  </a>
+
+</div>
+  
+  
 </p>
 
 <p align="right">
