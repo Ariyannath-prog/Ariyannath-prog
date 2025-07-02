@@ -4,11 +4,29 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariyannath-prog&label=Profile%20views&color=0e75b6&style=flat" alt="ariyannath-prog" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 3px; ">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ariyan-nath-38a123240/" target="blank" style="display: inline-block; background-color: white; padding: 6px; border-radius: 16px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="43" height="38" />
+  </a>
   
-<a href="https://www.linkedin.com/in/ariyan-nath-38a123240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ariyan-nath-38a123240/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ariyannath200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ariyannath200" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/ariyannath-prog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ariyannath-prog/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/ariyannath54321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ariyannath54321" height="30" width="40" /></a>
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@ariyannath200" target="blank" style="display: inline-block; background-color: white; padding: 6px; border-radius: 16px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="43" height="38" />
+  </a>
+  
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/ariyannath-prog/" target="_blank" style="display: inline-block; background-color: white; padding: 6px; border-radius: 16px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="43" height="38" style="display: block; border-radius: 12px;" />
+</a>
+  
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/user/ariyannath54321/" target="blank" style="display: inline-block; background-color: white; padding: 6px; border-radius: 16px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="43" height="38" />
+  </a>
+</div>  
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
