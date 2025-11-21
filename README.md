@@ -1,132 +1,90 @@
+<div align="left">
 
-![github-header-image-2](https://github.com/user-attachments/assets/66e5c66b-70c9-4abc-8d4c-273fadca6911)
+<img src="https://github.com/user-attachments/assets/66e5c66b-70c9-4abc-8d4c-273fadca6911" alt="Header Image" style="border-radius:20px; width:100%; max-width:1000px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ariyannath-prog&label=Profile%20views&color=0e75b6&style=flat" alt="ariyannath-prog" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 3px; ">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ariyan-nath-38a123240/" target="blank" style="display: inline-block; background-color: white; padding: 6px; border-radius: 16px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="43" height="38" />
+<img src="https://komarev.com/ghpvc/?username=ariyannath-prog&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
+
+<br><br>
+
+### Hi, I'm Ariyan Nath – Full-Stack Developer
+
+<br>
+
+**Connect with me**
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin: 16px 0;">
+  <a href="https://www.linkedin.com/in/ariyan-nath-38a123240/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@ariyannath200" target="blank" style="display: inline-block; background-color: white; padding: 6px; border-radius: 16px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="43" height="38" />
+  <a href="https://x.com/AriyanN1175" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/ariyannath-prog/" target="_blank" style="display: inline-block; background-color: white; padding: 6px; border-radius: 16px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="43" height="38" style="display: block; border-radius: 12px;" />
-</a>
-
-<a href="https://x.com/AriyanN1175" target="_blank" style="display:inline-block; background-color:white; padding:6px; border-radius:16px;">
-  <img src="https://logo.svgcdn.com/logos/x.svg" alt="X" width="43" height="38" />
-</a>
-
- <a href="https://www.instagram.com/r__yan__dev/" target="_blank" style="display:inline-block; background-color:white; padding:6px; border-radius:16px;">
-  <img src="https://logo-teka.com/wp-content/uploads/2025/06/instagram-sign-logo.svg" alt="Instagram" width="43" height="43" />
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=61576079475040" target="_blank" style="display:inline-block; background-color:white; padding:6px; border-radius:16px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="43" height="43" />
-</a>
-
-<a href="https://www.reddit.com/user/XYZ___Gamer__/" target="_blank" style="display:inline-block; background-color:white; padding:6px; border-radius:16px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" width="43" height="43" />
-</a>
-
-<a href="https://www.twitch.tv/aricodes2006" target="_blank" style="display:inline-block; background-color:white; padding:6px; border-radius:16px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Twitch" width="43" height="43" />
-</a>
-
-  
-</div>  
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-  
-<div style="display: flex; flex-wrap: wrap; justify-content: left; align-items: left; gap: 6px;">
-  <a href="https://www.w3.org/html/" target="_blank" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="38" height="38" style="background-color: white; padding: 6px; border-radius: 16px;" />
+  <a href="https://www.youtube.com/@ariyannath200" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="38" height="38" style="background-color: white; padding: 6px; border-radius: 16px;" />
+  <a href="https://leetcode.com/u/ariyannath-prog/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" style="background-color: white; padding: 6px; border-radius: 16px;" />
+  <a href="https://www.instagram.com/r__yan__dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
-  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="38" height="38" style="background-color: white; padding: 6px; border-radius: 16px;" />
+  <a href="https://www.facebook.com/profile.php?id=61576079475040" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-
-  <a href="https://nodejs.org/" target="_blank" title="Node.js">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="38" height="38" style="background-color: white; padding: 6px; border-radius: 16px;" />
+  <a href="https://www.reddit.com/user/XYZ___Gamer__/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
-
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="38" height="38" style="background-color: white; padding: 6px; border-radius: 16px;" />
-  </a>
-
-  <a href="https://www.cprogramming.com/" target="_blank" title="C">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="38" height="38" style="background-color: white; padding: 6px; border-radius: 16px;" />
-  </a>
-
-  <a href="https://www.learncpp.com/" target="_blank" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="38" height="38" style="background-color: white; padding: 6px; border-radius: 16px;" />
-  </a>
-
-  <a href="https://www.python.org" target="_blank" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38" style="background-color: white; padding: 6px; border-radius: 16px;" />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="38" height="38" style="background-color: white; padding: 6px; border-radius: 16px;" />
-  </a>
-
-  <a href="https://github.com/" target="_blank" title="GitHub">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="38" height="38" style="background-color: white; padding: 6px; border-radius: 16px;" />
-  </a>
-
-  <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="38" height="38" style="background-color: white; padding: 6px; border-radius: 16px;" />
-  </a>
-
-  <a href="https://www.linux.org/" target="_blank" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="38" height="38" style="background-color: white; padding: 6px; border-radius: 16px;" />
+  <a href="https://www.twitch.tv/aricodes2006" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
 </div>
 
-</p>
+<br>
 
-<p align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariyannath-prog&show_icons=true&locale=en&layout=compact&theme=dark" alt="ariyannath-prog" />
-</p>
+**Languages & Tools**
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ariyannath-prog&show_icons=true&locale=en&theme=dark" alt="ariyannath-prog" />
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 14px; margin: 24px 0;">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+</div>
 
-- 🔭 I’m currently working on [Web development project](https://ariyannath-prog.github.io/E-Book-Haven/)
+<br>
 
-- 🌱 I’m currently learning **React and Node.js**
-
-- 👯 I’m looking to collaborate on **Web Development**
-
-- 💬 Ask me about **Frontend web development**
-
-- 📫 How to reach me **nathariyan97@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ariyan-nath-38a123240/](https://www.linkedin.com/in/ariyan-nath-38a123240/)
-
-- ⚡ Fun fact: **I think I love to code**
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ariyannath-prog&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariyannath-prog&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages"/>
+</div>
 
 <br><br>
-<img width="100%" height="90px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndzaXpxZWIydWJsd256dWUzNzYzYmRxYXQxemJ4ZXdmMGozZ2FpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vamRg4k9FO2wyFylIx/200.webp">
+
+- Currently working on: [EcoTech: Revolutionizing Environmental Education](https://ecotech-6d533.web.app/index.html)
+- Learning **React.js** and **Node.js** deeply
+- Looking to collaborate on **Web Development** projects
+- Ask me about **Frontend & React**
+- How to reach me: **ariyannath54321@gmail.com**
+- Full experience: [LinkedIn](https://www.linkedin.com/in/ariyan-nath-38a123240/)
+
+<br>
+
+**Fun fact**: I think I love to code... and coffee
+
+<br><br>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndzaXpxZWIydWJsd256dWUzNzYzYmRxYXQxemJ4ZXdmMGozZ2FpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vamRg4k9FO2wyFylIx/200.webp" style="border-radius:18px; box-shadow: 0 8px 25px rgba(0,0,0,0.3); width:100%; height: 100px"/>
+
+</div>
