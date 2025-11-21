@@ -21,7 +21,7 @@
   <a href="https://x.com/AriyanN1175" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://www.youtube.com/@ariyannath200" target="_blank">
+  <a href="https://www.youtube.com/@ariyan-nath" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://leetcode.com/u/ariyannath-prog/" target="_blank">
