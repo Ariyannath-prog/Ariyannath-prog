@@ -20,11 +20,28 @@
   <a href="https://leetcode.com/u/ariyannath-prog/" target="_blank" style="display: inline-block; background-color: white; padding: 6px; border-radius: 16px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="43" height="38" style="display: block; border-radius: 12px;" />
 </a>
+
+<a href="https://x.com/AriyanN1175" target="_blank" style="display:inline-block; background-color:white; padding:6px; border-radius:16px;">
+  <img src="https://logo.svgcdn.com/logos/x.svg" alt="X" width="43" height="38" />
+</a>
+
+ <a href="https://www.instagram.com/r__yan__dev/" target="_blank" style="display:inline-block; background-color:white; padding:6px; border-radius:16px;">
+  <img src="https://logo-teka.com/wp-content/uploads/2025/06/instagram-sign-logo.svg" alt="Instagram" width="43" height="43" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61576079475040" target="_blank" style="display:inline-block; background-color:white; padding:6px; border-radius:16px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="43" height="43" />
+</a>
+
+<a href="https://www.reddit.com/user/XYZ___Gamer__/" target="_blank" style="display:inline-block; background-color:white; padding:6px; border-radius:16px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" width="43" height="43" />
+</a>
+
+<a href="https://www.twitch.tv/aricodes2006" target="_blank" style="display:inline-block; background-color:white; padding:6px; border-radius:16px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Twitch" width="43" height="43" />
+</a>
+
   
-  <!-- GeeksforGeeks -->
-  <a href="https://www.geeksforgeeks.org/user/ariyannath54321/" target="blank" style="display: inline-block; background-color: white; padding: 6px; border-radius: 16px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="43" height="38" />
-  </a>
 </div>  
 
 </p>
