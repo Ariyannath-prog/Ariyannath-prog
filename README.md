@@ -52,6 +52,7 @@
   <img src="https://skillicons.dev/icons?i=react" title="React"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=expressjs" title="Express"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
   <img src="https://skillicons.dev/icons?i=c" title="C"/>
   <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
