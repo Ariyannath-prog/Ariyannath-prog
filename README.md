@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 <!-- Header with Typing Animation -->
 <img src="https://github.com/user-attachments/assets/66e5c66b-70c9-4abc-8d4c-273fadca6911" alt="Header" width="100%" style="border-radius:20px"/>
@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=ariyannath-prog&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ariyannath-prog&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+
 
 </div>
 
@@ -47,10 +47,8 @@ const ariyan = {
     location: "Guwahati, Assam, India 🇮🇳",
     currentFocus: "Building EcoTech - Revolutionizing Environmental Education 🌱",
     learning: ["React.js Deep Dive", "Advanced Node.js", "System Design"],
-    openTo: "Web Development Projects & Collaborations",
     expertise: ["Frontend Development", "React Ecosystem", "Full-Stack Web Apps"],
     contact: "ariyannath54321@gmail.com",
-    funFact: "I run on code and coffee ☕💻"
 };
 ```
 
@@ -92,8 +90,7 @@ const ariyan = {
 
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariyannath-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyannath-prog&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariyannath-prog&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 
@@ -122,20 +119,6 @@ const ariyan = {
 ## 💡 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariyannath-prog/ariyannath-prog/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariyannath-prog/ariyannath-prog/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ariyannath-prog/ariyannath-prog/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
