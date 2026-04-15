@@ -45,7 +45,6 @@
 ```typescript
 const ariyan = {
     location: "Guwahati, Assam, India 🇮🇳",
-    currentFocus: "Building EcoTech - Revolutionizing Environmental Education 🌱",
     learning: ["React.js Deep Dive", "Advanced Node.js", "System Design"],
     expertise: ["Frontend Development", "React Ecosystem", "Full-Stack Web Apps"],
     contact: "ariyannath54321@gmail.com",
